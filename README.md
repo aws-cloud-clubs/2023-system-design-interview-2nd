@@ -84,7 +84,7 @@
     <tr>
       <td align="center"><a href="https://github.com/junchanpp"><img src="https://avatars.githubusercontent.com/u/49396352?v=4" width="100px;" alt=""/><br /><sub><b>JunChan Park</b></sub></a></td>
       <td align="center"><a href="https://github.com/Lightieey"><img src="https://avatars.githubusercontent.com/u/79203421?v=4" width="100px;" alt=""/><br /><sub><b>MinJi Kim</b></sub></a></td>
-      <td align="center"><a href="https://github.com/ziwooda"><img src="https://avatars.githubusercontent.com/u/70079416?v=4" width="100px;" alt=""/><br /><sub><b>JiWoo Jung</b></sub></a></td>
+      <td align="center"><a href="https://github.com/ziwooda"><img src="https://avatars.githubusercontent.com/u/70079416?v=4" width="100px;" alt=""/><br /><sub><b>JiWoo Jeong</b></sub></a></td>
       <td align="center"><a href="https://github.com/bik1111"><img src="https://avatars.githubusercontent.com/u/76617139?v=4" width="100px;" alt=""/><br /><sub><b>JinCheol Jung</b></sub></a></td>
     </tr>
   </tobdy>
